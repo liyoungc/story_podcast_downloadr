@@ -23,7 +23,7 @@ For Mac
 > zsh ./fetch.sh
 
 For Windows
-> fetch.bat
+> .\fetch.bat
 
 6. 讓電腦跑好一陣子慢慢下載
 
