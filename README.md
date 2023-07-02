@@ -6,8 +6,8 @@
 
 1. 打開命令提示畫面（Windows: 執行"cmd"; Mac: 搜尋 terminal)
  
-2. 下載youtube-dl，是個超好用、合法又開源的影音下載程式。
-建議用套件管理軟體安裝 (Mac: homebrew; Windows: Chocolatey)
+2. 下載youtube-dl，是個超好用、合法又開源的影音下載程式。 \n
+建議用套件管理軟體安裝 (Mac: homebrew; Windows: Chocolatey) \n
 For Mac: https://brew.sh/index_zh-tw
 For Win: https://starspiritstorm.github.io/zh-tw/posts/install-chocolatey-in-windows/
 
