@@ -7,10 +7,9 @@
 1. 打開命令提示畫面（Windows: 執行"cmd"; Mac: 搜尋 terminal)  
   
   
-2. 下載youtube-dl，是個超好用、合法又開源的影音下載程式。   
-建議用套件管理軟體安裝 (Mac: homebrew; Windows: Chocolatey)   
-For Mac: https://brew.sh/index_zh-tw  
-For Win: https://starspiritstorm.github.io/zh-tw/posts/install-chocolatey-in-windows/  
+2. 建議用套件管理軟體安裝youtube-dl，是個超好用、合法又開源的影音下載程式。 
+Homebrew for Mac: https://brew.sh/index_zh-tw  
+Chocolatey for Win: https://starspiritstorm.github.io/zh-tw/posts/install-chocolatey-in-windows/  
   
   
 3. 安裝需要套件
@@ -28,7 +27,7 @@ For Win:
 For Mac　若隨身碟叫USB_name  
 > cd /Volumes/USB_name   
   
-For Windows 若隨身碟在E槽  
+For Win 若隨身碟在E槽  
 > cd E:   
   
   
@@ -40,7 +39,7 @@ For Windows 若隨身碟在E槽
 For Mac  
 > zsh ./fetch.sh  
   
-For Windows  
+For Win 
 > .\fetch.bat  
   
   
